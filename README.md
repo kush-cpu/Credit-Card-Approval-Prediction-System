@@ -1,5 +1,3 @@
-# README.md
-
 # Credit Card Approval Prediction System
 
 A high-performance machine learning system for predicting credit card approvals in India using logistic regression, capable of processing 500M+ records efficiently.
