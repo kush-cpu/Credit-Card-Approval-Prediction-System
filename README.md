@@ -4,7 +4,7 @@ A high-performance machine learning system for predicting credit card approvals 
 
 ## 📊 Project Overview
 
-This project implements a machine learning system to predict credit card approval decisions based on applicant data. Using logistic regression and advanced data processing techniques, the system achieves [95.62]% accuracy on real-world approval scenarios.
+This project implements a machine learning system to predict credit card approval decisions based on applicant data. Using logistic regression and advanced data processing techniques, the system achieves [88.62]% accuracy on real-world approval scenarios.
 
 ### Key Features
 - Processes 500M+ records using parallel computing
